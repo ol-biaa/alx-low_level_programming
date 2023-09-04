@@ -32,7 +32,7 @@ if (width <= 0 || height <= 0)
 		}
 	}
 
-	for (n = 0; n < height; x++)
+	for (n = 0; n < height; n++)
 	{
 		for (y = 0; y < width; y++)
 			yee[n][y] = 0;
