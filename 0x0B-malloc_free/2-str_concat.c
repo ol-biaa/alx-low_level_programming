@@ -18,7 +18,7 @@ int n, i;
 
 	n = i = 0;
 	while (s1[n] != '\0')
-		ni++;
+		n++;
 	while (s2[i] != '\0')
 		i++;
 	s = malloc(sizeof(char) * (n + i + 1));
