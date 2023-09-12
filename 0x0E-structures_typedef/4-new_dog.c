@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include "dog.h"
 /**
  * _strlen - a function that gets a length of string
  *
